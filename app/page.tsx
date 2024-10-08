@@ -33,12 +33,12 @@ export default function Home() {
           <div className="md:grid md:grid-cols-3 grid grid-cols-3 divide-x divide-[#705C53] pt-12 px-12 text-center gap-2 text-[#705C53] font-serif ">
             <div>
               <h1 className="flex justify-center md:text-5xl text-2xl"><BiSolidHappyHeartEyes /></h1>
-              <h1 className="md:text-5xl text-2xl">50+</h1>
+              <h1 className="md:text-5xl text-2xl">80+</h1>
               <p className="md:text-xl">Happy Client</p>
             </div>
             <div className="">
               <h1 className="flex justify-center md:text-5xl text-2xl"><MdFileDownloadDone /></h1>
-              <h1 className="md:text-5xl text-2xl">200+</h1>
+              <h1 className="md:text-5xl text-2xl">100+</h1>
               <p className="md:text-xl">Completed Project</p>
             </div>
             <div>
